@@ -2,3 +2,4 @@ tensorflow-cpu
 numpy==1.19.5
 streamlit==0.80.0
 matplotlib==3.2.2 
+joblib==1.0.1  
